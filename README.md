@@ -33,3 +33,8 @@ IR Remote menggunakan Arduino,
 
 <br>
 https://github.com/fajarjulyana/Arduino-IR-Remote-Light-Control/blob/ad26065ba425878b5c32855679c4c216c5b35b4c/src/code.cpp#L1-L49
+
+<br>
+8. Kode di atas akan membaca kode IR yang diterima dari remote control dan kemudian menghidupkan atau mematikan LED tergantung pada tombol yang ditekan. Anda dapat menambahkan case statement untuk tombol tambahan sesuai keinginan.
+
+9Upload program ke Arduino dan coba tekan tombol pada remote control untuk menghidupkan atau mematikan LED.
