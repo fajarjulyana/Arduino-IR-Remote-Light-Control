@@ -30,3 +30,6 @@ IR Remote menggunakan Arduino,
 6. Ambil kodenya dari remote control yang ingin Anda gunakan dan catat kode tersebut. Anda dapat menggunakan library 7. IRremote pada Arduino IDE untuk membaca kode ini.
 
 7. Buka Arduino IDE, buat program baru dan salin kode berikut ke dalam program:
+
+<br>
+
