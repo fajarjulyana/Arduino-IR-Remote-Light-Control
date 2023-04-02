@@ -32,4 +32,4 @@ IR Remote menggunakan Arduino,
 7. Buka Arduino IDE, buat program baru dan salin kode berikut ke dalam program:
 
 <br>
-
+https://github.com/fajarjulyana/Arduino-IR-Remote-Light-Control/blob/ad26065ba425878b5c32855679c4c216c5b35b4c/src/code.cpp#L1-L49
